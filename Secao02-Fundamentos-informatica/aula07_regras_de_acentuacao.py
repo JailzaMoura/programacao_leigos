@@ -18,13 +18,4 @@ Ex: Principal ( C: )
 
 No texto ou mensagem para enviarmos para alguem, podemos usar a acentuação
 e os espaços.
-
 """
-
-
-
-
-
-
-
-"
