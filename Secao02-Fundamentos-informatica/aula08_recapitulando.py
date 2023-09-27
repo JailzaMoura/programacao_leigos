@@ -7,4 +7,5 @@ Recapitulando
 - Principais ferramentas que devemos conhecer: gerenciados de arquivos,
 sistemas de arquivos, navegador Web, painel de controle, path do sistema,
 terminal, editores de texto e editores de imagem.
+
 """
